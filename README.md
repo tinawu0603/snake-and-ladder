@@ -4,6 +4,21 @@ Author: Tina Wu
 
 Email: wu.tin@husky.neu.edu
 
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+- [Software and Hardware Used](#software-and-hardware-used)
+- [Project Steps](#project-steps)
+- [Project Discussion](#project-discussion)
+- [Results](#results)
+- [Analysis](#analysis)
+    - [Timer interrupts](#timer-interrupts)
+    - [Game board generation](#game-board-generation)
+    - [Project design](#project-design)
+    - [User interaction](#user-interaction)
+    - [Additional future advancements](#additional-future-advancements)
+- [Conclusion](#conclusion)
+- [References](#references)
+
 ## Abstract
 
 This project intends to build an interactive Snake and Ladder game to inspire and encourage primary school students to become interested in STEM. This project utilizes concepts such as C programming basics, timer interrupts, and interacting with input and output devices connected to the DE1-SoC board.
